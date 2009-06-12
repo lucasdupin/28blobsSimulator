@@ -9,9 +9,6 @@
 	
 	<!-- Theese are application settings, you won't need to change it! -->
 	<application>
-        <textColor>
-			<r>0</r><g>120</g><b>200</b>
-		</textColor>
 		<canvasColor>
 			<r>80</r><g>80</g><b>80</b>
 		</canvasColor>

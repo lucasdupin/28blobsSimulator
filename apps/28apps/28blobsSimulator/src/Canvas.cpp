@@ -88,7 +88,7 @@ void Canvas::mousePressed(int x, int y, int button){
 	newB.id = blobId++;
 	newB.dragging=true;
 	blobs.push_back(newB);
-	sendOSC("/update", newB.id, newB.position.x, newB.position.y);
+	sendOSC("/create", newB.id, newB.position.x, newB.position.y);
 
 }
 

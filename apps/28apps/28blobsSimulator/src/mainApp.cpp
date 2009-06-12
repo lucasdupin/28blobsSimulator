@@ -3,6 +3,8 @@
 //--------------------------------------------------------------
 void MainApp::setup(){
 	
+	ofSetFrameRate(60);
+	
 	//Loading settings
 	if(!settings.loadFile("config.xml"))
 		cout << "failed to load config.xml";
@@ -30,6 +32,8 @@ void MainApp::draw(){
 	background.draw(0,0,ofGetWidth(), ofGetHeight());
 	
 	canvas.draw();
+	
+	ofDrawBitmapString(ofToString(ofGetFrameRate(), 0), 10, ofGetHeight()-20);
 }
 
 //--------------------------------------------------------------

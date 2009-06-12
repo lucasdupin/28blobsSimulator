@@ -18,6 +18,7 @@ void setupOSC(std::string ip, int port){
 	oscSender.setup(ip, port);
 }
 void sendOSC(const char * mensagem, int id, float x, float y){
+	cout << "sending " << mensagem << " with id:" << id << " x:" << x << " y:" << y << endl;
 	ofxOscMessage msg;
 	msg.setAddress(mensagem);
 	msg.addIntArg(id);
