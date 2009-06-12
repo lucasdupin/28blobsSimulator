@@ -3,12 +3,10 @@
 
 #include "ofMain.h"
 #include "settings.h"
-#include "ofxCvBlobTracker.h"
-#include "ofxCvMain.h"
 #include "blob.h"
 #include "utils.h"
 
-class Canvas: public ofxCvBlobListener{
+class Canvas{
 	
 public:
 	void virtual setup();

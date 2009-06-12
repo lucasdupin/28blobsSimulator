@@ -1,6 +1,6 @@
 <teBlobs>
 	<osc>
-		<ip>127.0.0.1</ip><port>3333</port>
+		<ip>10.0.1.200</ip><port>3333</port>
 	</osc>
 	<canvas>
         <width>1000</width>

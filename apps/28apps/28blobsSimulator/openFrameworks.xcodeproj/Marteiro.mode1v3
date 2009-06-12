@@ -333,7 +333,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A5C03BF20FE316D900F28850</string>
+										<string>A5C03C160FE3193B00F28850</string>
 										<key>history</key>
 										<array>
 											<string>A5D85DD40FDAFAF500DFE6AF</string>
@@ -354,16 +354,16 @@
 											<string>A56051110FDF69A500EA3762</string>
 											<string>A56051210FDF69E500EA3762</string>
 											<string>A5AE7A900FE07D0800D4A16E</string>
-											<string>A5C03BD90FE316B100F28850</string>
 											<string>A5C03BDA0FE316B100F28850</string>
-											<string>A5C03BDB0FE316B100F28850</string>
 											<string>A5C03BDC0FE316B100F28850</string>
 											<string>A5C03BDD0FE316B100F28850</string>
-											<string>A5C03BDE0FE316B100F28850</string>
-											<string>A5C03BDF0FE316B100F28850</string>
 											<string>A5C03BEC0FE316D900F28850</string>
-											<string>A5C03BED0FE316D900F28850</string>
-											<string>A5C03BEE0FE316D900F28850</string>
+											<string>A5C03C020FE318E900F28850</string>
+											<string>A5C03C050FE318E900F28850</string>
+											<string>A5C03C060FE318E900F28850</string>
+											<string>A5C03C100FE3193B00F28850</string>
+											<string>A5C03C110FE3193B00F28850</string>
+											<string>A5C03C120FE3193B00F28850</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -453,6 +453,15 @@
 											<string>A5C03BEF0FE316D900F28850</string>
 											<string>A5C03BF00FE316D900F28850</string>
 											<string>A5C03BF10FE316D900F28850</string>
+											<string>A5C03C070FE318E900F28850</string>
+											<string>A5C03C080FE318E900F28850</string>
+											<string>A5C03C090FE318E900F28850</string>
+											<string>A5C03C0A0FE318E900F28850</string>
+											<string>A5C03C0B0FE318E900F28850</string>
+											<string>A5C03C0C0FE318E900F28850</string>
+											<string>A5C03C130FE3193B00F28850</string>
+											<string>A5C03C140FE3193B00F28850</string>
+											<string>A5C03C150FE3193B00F28850</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -668,8 +677,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -692,6 +699,8 @@
 							<string>636pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>

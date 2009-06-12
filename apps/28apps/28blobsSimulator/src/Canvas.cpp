@@ -64,7 +64,7 @@ void Canvas::mouseDragged(int x, int y, int button){
 			b->position.y = y - position.y;
 			b->dragged = true;
 			
-			sendOSC("/update", b->id, b->position.x, b->position.y);
+			sendOSC("/update", b->id, b->position.x/width, b->position.y/height);
 		}
 	}
 }
@@ -88,7 +88,7 @@ void Canvas::mousePressed(int x, int y, int button){
 	newB.id = blobId++;
 	newB.dragging=true;
 	blobs.push_back(newB);
-	sendOSC("/create", newB.id, newB.position.x, newB.position.y);
+	sendOSC("/create", newB.id, newB.position.x/width, newB.position.y/height);
 
 }
 
@@ -100,20 +100,11 @@ void Canvas::mouseReleased(int x, int y, int button){
 	for (vector<Blob>::iterator b = blobs.begin(); b != blobs.end(); b++) {
 		
 		if(b->dragging && !b->dragged){
+			sendOSC("/destroy", b->id, b->position.x/width, b->position.y/height);
 			blobs.erase(b--);
 		} else {
 			b->dragging = false;
 			b->dragged = false;
 		}
 	}
-}
-
-void Canvas::blobOn( int x, int y, int id, int order ) {
-    sendOSC("/create", id, x, y);
-}
-void Canvas::blobMoved( int x, int y, int id, int order) {
-    sendOSC("/update", id, x, y);	
-}
-void Canvas::blobOff( int x, int y, int id, int order ) {
-    sendOSC("/destroy", id, x, y);
 }

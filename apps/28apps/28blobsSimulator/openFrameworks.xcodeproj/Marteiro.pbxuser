@@ -1,6 +1,6 @@
 // !$*UTF8*$!
 {
-	A56046290FDB1C3400EA3762 /* Canvas.h:12 */ = {
+	A56046290FDB1C3400EA3762 /* Canvas.h:10 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -11,7 +11,7 @@
 		fileReference = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 12;
+		lineNumber = 10;
 		modificationTime = 266300871.659546;
 		state = 2;
 	};
@@ -345,6 +345,12 @@
 		sourceTree = "<absolute>";
 	};
 	A5604D210FDDEE5300EA3762 /* ofxCvBlobTracker.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxCvBlobTracker.cpp;
+		path = /Users/Marteiro/Desktop/28blobsSimulator/addons/ofxOpenCVBlobTrackingExt/ofxCvBlobTracker.cpp;
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1411, 6116}}";
 			sepNavSelRange = "{33, 0}";
@@ -352,6 +358,12 @@
 		};
 	};
 	A5604D220FDDEE5300EA3762 /* ofxCvBlobTracker.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxCvBlobTracker.h;
+		path = /Users/Marteiro/Desktop/28blobsSimulator/addons/ofxOpenCVBlobTrackingExt/ofxCvBlobTracker.h;
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1411, 1092}}";
 			sepNavSelRange = "{639, 0}";
@@ -360,6 +372,12 @@
 		};
 	};
 	A5604D230FDDEE5300EA3762 /* ofxCvConstants_Track.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxCvConstants_Track.h;
+		path = /Users/Marteiro/Desktop/28blobsSimulator/addons/ofxOpenCVBlobTrackingExt/ofxCvConstants_Track.h;
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1411, 718}}";
 			sepNavSelRange = "{0, 0}";
@@ -367,6 +385,12 @@
 		};
 	};
 	A5604D240FDDEE5300EA3762 /* ofxCvTrackedBlob.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxCvTrackedBlob.h;
+		path = /Users/Marteiro/Desktop/28blobsSimulator/addons/ofxOpenCVBlobTrackingExt/ofxCvTrackedBlob.h;
+		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1411, 1120}}";
 			sepNavSelRange = "{267, 0}";
@@ -777,7 +801,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 13";
 		rLen = 0;
-		rLoc = 206;
+		rLoc = 127;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -847,7 +871,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 13";
 		rLen = 0;
-		rLoc = 206;
+		rLoc = 127;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -857,7 +881,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 13";
 		rLen = 0;
-		rLoc = 206;
+		rLoc = 127;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -903,7 +927,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 13";
 		rLen = 0;
-		rLoc = 206;
+		rLoc = 127;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -913,7 +937,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 13";
 		rLen = 0;
-		rLoc = 206;
+		rLoc = 127;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -923,7 +947,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 12";
 		rLen = 0;
-		rLoc = 206;
+		rLoc = 127;
 		rType = 0;
 		vrLen = 1141;
 		vrLoc = 0;
@@ -956,7 +980,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 50";
 		rLen = 26;
-		rLoc = 758;
+		rLoc = 679;
 		rType = 0;
 		vrLen = 572;
 		vrLoc = 675;
@@ -974,7 +998,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 50";
 		rLen = 26;
-		rLoc = 758;
+		rLoc = 679;
 		rType = 0;
 		vrLen = 572;
 		vrLoc = 675;
@@ -1032,7 +1056,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 29";
 		rLen = 0;
-		rLoc = 695;
+		rLoc = 616;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1042,7 +1066,7 @@
 		comments = "error: ‘kMaxBlob_slider’ was not declared in this scope";
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		rLen = 0;
-		rLoc = 110;
+		rLoc = 109;
 		rType = 1;
 	};
 	A5C03AA70FE2FB2E00F28850 /* PBXTextBookmark */ = {
@@ -1060,7 +1084,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 145";
 		rLen = 0;
-		rLoc = 2617;
+		rLoc = 2716;
 		rType = 0;
 		vrLen = 1123;
 		vrLoc = 2362;
@@ -1070,7 +1094,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 29";
 		rLen = 0;
-		rLoc = 695;
+		rLoc = 616;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1090,7 +1114,7 @@
 		comments = "error: ‘blob’ was not declared in this scope";
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		rLen = 1;
-		rLoc = 34;
+		rLoc = 32;
 		rType = 1;
 	};
 	A5C03AB30FE2FD7500F28850 /* PBXTextBookmark */ = {
@@ -1128,7 +1152,7 @@
 		comments = "error: ‘blob’ was not declared in this scope";
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		rLen = 1;
-		rLoc = 34;
+		rLoc = 32;
 		rType = 1;
 	};
 	A5C03AB70FE2FD7500F28850 /* PBXTextBookmark */ = {
@@ -1176,7 +1200,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1186,7 +1210,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1196,7 +1220,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1226,7 +1250,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1266,7 +1290,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1386,7 +1410,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 86";
 		rLen = 0;
-		rLoc = 2420;
+		rLoc = 2446;
 		rType = 0;
 		vrLen = 805;
 		vrLoc = 1330;
@@ -1396,7 +1420,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 808;
 		vrLoc = 0;
@@ -1406,7 +1430,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 621;
 		vrLoc = 146;
@@ -1434,7 +1458,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 34";
 		rLen = 0;
-		rLoc = 772;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 621;
 		vrLoc = 146;
@@ -1444,7 +1468,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 65";
 		rLen = 0;
-		rLoc = 1658;
+		rLoc = 1671;
 		rType = 0;
 		vrLen = 985;
 		vrLoc = 918;
@@ -1454,7 +1478,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1901;
+		rLoc = 1914;
 		rType = 0;
 		vrLen = 888;
 		vrLoc = 0;
@@ -1477,7 +1501,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 65";
 		rLen = 0;
-		rLoc = 1658;
+		rLoc = 1671;
 		rType = 0;
 		vrLen = 949;
 		vrLoc = 1087;
@@ -1506,7 +1530,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 65";
 		rLen = 0;
-		rLoc = 1658;
+		rLoc = 1671;
 		rType = 0;
 		vrLen = 949;
 		vrLoc = 1087;
@@ -1526,7 +1550,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 111;
 		rType = 0;
 		vrLen = 827;
 		vrLoc = 0;
@@ -1554,7 +1578,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 9";
 		rLen = 0;
-		rLoc = 164;
+		rLoc = 111;
 		rType = 0;
 		vrLen = 827;
 		vrLoc = 0;
@@ -1564,7 +1588,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1890;
+		rLoc = 1903;
 		rType = 0;
 		vrLen = 1129;
 		vrLoc = 1230;
@@ -1574,7 +1598,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1890;
+		rLoc = 1903;
 		rType = 0;
 		vrLen = 1089;
 		vrLoc = 1230;
@@ -1584,7 +1608,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1990;
+		rLoc = 2003;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 1264;
@@ -1594,7 +1618,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1890;
+		rLoc = 1903;
 		rType = 0;
 		vrLen = 1194;
 		vrLoc = 1125;
@@ -1624,7 +1648,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1890;
+		rLoc = 1903;
 		rType = 0;
 		vrLen = 1194;
 		vrLoc = 1125;
@@ -1674,7 +1698,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1890;
+		rLoc = 1903;
 		rType = 0;
 		vrLen = 1129;
 		vrLoc = 1190;
@@ -1694,7 +1718,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 82";
 		rLen = 0;
-		rLoc = 2260;
+		rLoc = 2286;
 		rType = 0;
 		vrLen = 1093;
 		vrLoc = 1267;
@@ -1704,7 +1728,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 84";
 		rLen = 0;
-		rLoc = 2260;
+		rLoc = 2286;
 		rType = 0;
 		vrLen = 1084;
 		vrLoc = 1267;
@@ -1714,7 +1738,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 73";
 		rLen = 0;
-		rLoc = 1974;
+		rLoc = 1987;
 		rType = 0;
 		vrLen = 1104;
 		vrLoc = 1267;
@@ -1724,7 +1748,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 84";
 		rLen = 0;
-		rLoc = 2171;
+		rLoc = 2184;
 		rType = 0;
 		vrLen = 1068;
 		vrLoc = 1267;
@@ -1794,7 +1818,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -1834,7 +1858,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -1844,7 +1868,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 86";
 		rLen = 0;
-		rLoc = 2150;
+		rLoc = 2163;
 		rType = 0;
 		vrLen = 1046;
 		vrLoc = 1572;
@@ -1854,7 +1878,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 86";
 		rLen = 0;
-		rLoc = 2150;
+		rLoc = 2163;
 		rType = 0;
 		vrLen = 1081;
 		vrLoc = 1572;
@@ -1864,7 +1888,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -1884,7 +1908,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 86";
 		rLen = 0;
-		rLoc = 2150;
+		rLoc = 2163;
 		rType = 0;
 		vrLen = 1081;
 		vrLoc = 1572;
@@ -1894,7 +1918,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -1954,7 +1978,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -2024,7 +2048,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -2084,7 +2108,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 104";
 		rLen = 0;
-		rLoc = 2611;
+		rLoc = 2711;
 		rType = 0;
 		vrLen = 1089;
 		vrLoc = 1661;
@@ -2094,7 +2118,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 104";
 		rLen = 0;
-		rLoc = 2611;
+		rLoc = 2711;
 		rType = 0;
 		vrLen = 1091;
 		vrLoc = 1661;
@@ -2114,7 +2138,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 104";
 		rLen = 0;
-		rLoc = 2611;
+		rLoc = 2711;
 		rType = 0;
 		vrLen = 1091;
 		vrLoc = 1661;
@@ -2234,7 +2258,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 106";
 		rLen = 0;
-		rLoc = 2598;
+		rLoc = 2698;
 		rType = 0;
 		vrLen = 994;
 		vrLoc = 1796;
@@ -2244,7 +2268,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 102";
 		rLen = 0;
-		rLoc = 2515;
+		rLoc = 2541;
 		rType = 0;
 		vrLen = 1009;
 		vrLoc = 1796;
@@ -2254,7 +2278,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 102";
 		rLen = 0;
-		rLoc = 2515;
+		rLoc = 2541;
 		rType = 0;
 		vrLen = 932;
 		vrLoc = 0;
@@ -2264,7 +2288,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 102";
 		rLen = 0;
-		rLoc = 2515;
+		rLoc = 2541;
 		rType = 0;
 		vrLen = 982;
 		vrLoc = 54;
@@ -2284,7 +2308,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 102";
 		rLen = 0;
-		rLoc = 2515;
+		rLoc = 2541;
 		rType = 0;
 		vrLen = 982;
 		vrLoc = 54;
@@ -2314,7 +2338,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 102";
 		rLen = 0;
-		rLoc = 2515;
+		rLoc = 2541;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 111;
@@ -2354,7 +2378,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 79";
 		rLen = 0;
-		rLoc = 1990;
+		rLoc = 2003;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 1245;
@@ -2434,7 +2458,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 79";
 		rLen = 0;
-		rLoc = 1990;
+		rLoc = 2003;
 		rType = 0;
 		vrLen = 1186;
 		vrLoc = 1245;
@@ -2604,7 +2628,7 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 78";
 		rLen = 0;
-		rLoc = 1990;
+		rLoc = 2003;
 		rType = 0;
 		vrLen = 1172;
 		vrLoc = 1245;
@@ -2624,7 +2648,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -2664,7 +2688,7 @@
 		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
 		name = "Canvas.h: 40";
 		rLen = 0;
-		rLoc = 830;
+		rLoc = 751;
 		rType = 0;
 		vrLen = 835;
 		vrLoc = 0;
@@ -2674,10 +2698,240 @@
 		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
 		name = "Canvas.cpp: 91";
 		rLen = 0;
-		rLoc = 2213;
+		rLoc = 2226;
 		rType = 0;
 		vrLen = 1015;
 		vrLoc = 1660;
+	};
+	A5C03BF30FE3171900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 78";
+		rLen = 0;
+		rLoc = 2003;
+		rType = 0;
+		vrLen = 1172;
+		vrLoc = 1245;
+	};
+	A5C03BF50FE3171B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 91";
+		rLen = 0;
+		rLoc = 2226;
+		rType = 0;
+		vrLen = 1015;
+		vrLoc = 1660;
+	};
+	A5C03BFD0FE3188D00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 78";
+		rLen = 0;
+		rLoc = 2003;
+		rType = 0;
+		vrLen = 1196;
+		vrLoc = 1245;
+	};
+	A5C03C020FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5604A200FDC9DF200EA3762 /* utils.h */;
+		name = "utils.h: 13";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	A5C03C030FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* MainApp.cpp */;
+		name = "MainApp.cpp: 11";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 1081;
+		vrLoc = 960;
+	};
+	A5C03C040FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 103";
+		rLen = 0;
+		rLoc = 2609;
+		rType = 0;
+		vrLen = 932;
+		vrLoc = 0;
+	};
+	A5C03C050FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5C03A880FE2F89C00F28850 /* Blob.h */;
+		name = "Blob.h: 16";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	A5C03C060FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* MainApp.h */;
+		name = "MainApp.h: 30";
+		rLen = 0;
+		rLoc = 565;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 0;
+	};
+	A5C03C070FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 91";
+		rLen = 0;
+		rLoc = 2226;
+		rType = 0;
+		vrLen = 1049;
+		vrLoc = 1660;
+	};
+	A5C03C080FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5604A200FDC9DF200EA3762 /* utils.h */;
+		name = "utils.h: 13";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	A5C03C090FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* MainApp.cpp */;
+		name = "MainApp.cpp: 11";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 1081;
+		vrLoc = 960;
+	};
+	A5C03C0A0FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 103";
+		rLen = 0;
+		rLoc = 2609;
+		rType = 0;
+		vrLen = 932;
+		vrLoc = 0;
+	};
+	A5C03C0B0FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5C03A880FE2F89C00F28850 /* Blob.h */;
+		name = "Blob.h: 16";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	A5C03C0C0FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* MainApp.h */;
+		name = "MainApp.h: 30";
+		rLen = 0;
+		rLoc = 565;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 0;
+	};
+	A5C03C0D0FE318E900F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
+		name = "Canvas.h: 9";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 0;
+	};
+	A5C03C0E0FE3190B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 78";
+		rLen = 0;
+		rLoc = 2003;
+		rType = 0;
+		vrLen = 1196;
+		vrLoc = 1245;
+	};
+	A5C03C100FE3193B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
+		name = "Canvas.h: 9";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 763;
+		vrLoc = 0;
+	};
+	A5C03C110FE3193B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* MainApp.cpp */;
+		name = "MainApp.cpp: 11";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 1081;
+		vrLoc = 960;
+	};
+	A5C03C120FE3193B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 103";
+		rLen = 0;
+		rLoc = 2609;
+		rType = 0;
+		vrLen = 932;
+		vrLoc = 0;
+	};
+	A5C03C130FE3193B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */;
+		name = "Canvas.h: 9";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 763;
+		vrLoc = 0;
+	};
+	A5C03C140FE3193B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 103";
+		rLen = 0;
+		rLoc = 2609;
+		rType = 0;
+		vrLen = 932;
+		vrLoc = 0;
+	};
+	A5C03C150FE3193B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* MainApp.cpp */;
+		name = "MainApp.cpp: 11";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 1081;
+		vrLoc = 960;
+	};
+	A5C03C160FE3193B00F28850 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */;
+		name = "Canvas.cpp: 67";
+		rLen = 0;
+		rLoc = 1661;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 1245;
 	};
 	A5CD855E0FD8AC8C00962BAA /* openFrameworks */ = {
 		isa = PBXExecutable;
@@ -2761,17 +3015,17 @@
 	};
 	A5D85CA60FDAE3AB00DFE6AF /* Canvas.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {957, 616}}";
-			sepNavSelRange = "{830, 0}";
-			sepNavVisRange = "{0, 835}";
+			sepNavIntBoundsRect = "{{0, 0}, {957, 588}}";
+			sepNavSelRange = "{125, 0}";
+			sepNavVisRange = "{0, 763}";
 			sepNavWindowFrame = "{{61, 113}, {1335, 865}}";
 		};
 	};
 	A5D85CA70FDAE3AC00DFE6AF /* Canvas.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {957, 1666}}";
-			sepNavSelRange = "{2213, 0}";
-			sepNavVisRange = "{1660, 1015}";
+			sepNavIntBoundsRect = "{{0, 0}, {957, 1540}}";
+			sepNavSelRange = "{1661, 0}";
+			sepNavVisRange = "{1245, 1181}";
 			sepNavWindowFrame = "{{363, 4}, {1131, 974}}";
 		};
 	};
@@ -3019,7 +3273,7 @@
 			E4B69B5A0A3A1756003C02F2 /* openFrameworks */,
 		);
 		breakpoints = (
-			A56046290FDB1C3400EA3762 /* Canvas.h:12 */,
+			A56046290FDB1C3400EA3762 /* Canvas.h:10 */,
 			A56050F40FDF680900EA3762 /* ofxGui.cpp:161 */,
 		);
 		codeSenseManager = A5CD85880FD8ACAA00962BAA /* Code sense */;
@@ -3334,6 +3588,29 @@
 			A5C03BF00FE316D900F28850 /* PBXTextBookmark */ = A5C03BF00FE316D900F28850 /* PBXTextBookmark */;
 			A5C03BF10FE316D900F28850 /* PBXTextBookmark */ = A5C03BF10FE316D900F28850 /* PBXTextBookmark */;
 			A5C03BF20FE316D900F28850 /* PBXTextBookmark */ = A5C03BF20FE316D900F28850 /* PBXTextBookmark */;
+			A5C03BF30FE3171900F28850 /* PBXTextBookmark */ = A5C03BF30FE3171900F28850 /* PBXTextBookmark */;
+			A5C03BF50FE3171B00F28850 /* PBXTextBookmark */ = A5C03BF50FE3171B00F28850 /* PBXTextBookmark */;
+			A5C03BFD0FE3188D00F28850 /* PBXTextBookmark */ = A5C03BFD0FE3188D00F28850 /* PBXTextBookmark */;
+			A5C03C020FE318E900F28850 /* PBXTextBookmark */ = A5C03C020FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C030FE318E900F28850 /* PBXTextBookmark */ = A5C03C030FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C040FE318E900F28850 /* PBXTextBookmark */ = A5C03C040FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C050FE318E900F28850 /* PBXTextBookmark */ = A5C03C050FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C060FE318E900F28850 /* PBXTextBookmark */ = A5C03C060FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C070FE318E900F28850 /* PBXTextBookmark */ = A5C03C070FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C080FE318E900F28850 /* PBXTextBookmark */ = A5C03C080FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C090FE318E900F28850 /* PBXTextBookmark */ = A5C03C090FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C0A0FE318E900F28850 /* PBXTextBookmark */ = A5C03C0A0FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C0B0FE318E900F28850 /* PBXTextBookmark */ = A5C03C0B0FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C0C0FE318E900F28850 /* PBXTextBookmark */ = A5C03C0C0FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C0D0FE318E900F28850 /* PBXTextBookmark */ = A5C03C0D0FE318E900F28850 /* PBXTextBookmark */;
+			A5C03C0E0FE3190B00F28850 /* PBXTextBookmark */ = A5C03C0E0FE3190B00F28850 /* PBXTextBookmark */;
+			A5C03C100FE3193B00F28850 /* PBXTextBookmark */ = A5C03C100FE3193B00F28850 /* PBXTextBookmark */;
+			A5C03C110FE3193B00F28850 /* PBXTextBookmark */ = A5C03C110FE3193B00F28850 /* PBXTextBookmark */;
+			A5C03C120FE3193B00F28850 /* PBXTextBookmark */ = A5C03C120FE3193B00F28850 /* PBXTextBookmark */;
+			A5C03C130FE3193B00F28850 /* PBXTextBookmark */ = A5C03C130FE3193B00F28850 /* PBXTextBookmark */;
+			A5C03C140FE3193B00F28850 /* PBXTextBookmark */ = A5C03C140FE3193B00F28850 /* PBXTextBookmark */;
+			A5C03C150FE3193B00F28850 /* PBXTextBookmark */ = A5C03C150FE3193B00F28850 /* PBXTextBookmark */;
+			A5C03C160FE3193B00F28850 /* PBXTextBookmark */ = A5C03C160FE3193B00F28850 /* PBXTextBookmark */;
 			A5CD85A30FD8B1D000962BAA = A5CD85A30FD8B1D000962BAA /* PlistBookmark */;
 			A5CD85A40FD8B1D000962BAA = A5CD85A40FD8B1D000962BAA /* PBXTextBookmark */;
 			A5CD85A50FD8B1D000962BAA = A5CD85A50FD8B1D000962BAA /* PBXTextBookmark */;
@@ -3370,7 +3647,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {957, 1148}}";
 			sepNavSelRange = "{233, 0}";
-			sepNavVisRange = "{361, 988}";
+			sepNavVisRange = "{960, 1081}";
 			sepNavWindowFrame = "{{377, 19}, {1131, 1009}}";
 		};
 	};
