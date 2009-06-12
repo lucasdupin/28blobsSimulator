@@ -1,0 +1,19 @@
+<teBlobs>
+	<osc>
+		<ip>127.0.0.1</ip><port>3333</port>
+	</osc>
+	<canvas>
+        <width>1000</width>
+		<height>600</height>
+	</canvas>
+	
+	<!-- Theese are application settings, you won't need to change it! -->
+	<application>
+        <textColor>
+			<r>0</r><g>120</g><b>200</b>
+		</textColor>
+		<canvasColor>
+			<r>80</r><g>80</g><b>80</b>
+		</canvasColor>
+	</application>
+</teBlobs>
